@@ -1,5 +1,5 @@
-# sancti-diei
-# Privacy Policy
+# Sancti-Diei
+## Privacy Policy
 
 Patrick Attimont built the Sancti Diei app as a Free app. This SERVICE is provided by Patrick Attimont at no cost and is intended for use as is.
 
